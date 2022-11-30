@@ -13,3 +13,6 @@
   - 해당 브랜치로 전환: 'git checkout 브랜치이름' or 'git switch 브랜치이름'
   - 브랜치 생서과 전환 동시에 하기:'git checjout -b 브랜치이름' or 'git switch -b 브랜치이름'
   - 브랜치 병합: 'git merge 브랜치이름' <-- 현재 체크아웃하고있느 브랜치에 해당 브랜치가 병합됨
+- 원격 저장소를 즐겨찾기
+  - git remote add origin https://github.com/cprim/TIL
+  - 'https://github.com/cprim/TIL' 주소를 가진 원격 저장소를 origin이라 부르고, 해당 저장소를 즐겨찾기함
